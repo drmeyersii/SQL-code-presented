@@ -19,7 +19,7 @@ a compelling story.
 data dictionary.
 
 > [!NOTE]
-> The data set contains fictitious information about Rockbuster’s
+> This data set contains fictitious information about Rockbuster’s
 film inventory, customers, and payments, among other things.
 
 ## Visualization
