@@ -1,4 +1,4 @@
-The SQL query below utilizes a dataset for the fictitious Rockbuster dataset the **INNER JOIN** function to list the top 5 paying customers for thhe entire year.
+The SQL query below utilizes a dataset for the fictitious Rockbuster dataset the INNER JOIN function to list the top 5 paying customers for the entire year.
 
 SELECT SUM(A.amount) AS total_amount_paid,
 A.customer_id,
