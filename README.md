@@ -12,4 +12,6 @@ data dictionary.
 > The data set contains fictitious information about Rockbuster’s
 film inventory, customers, and payments, among other things.
 
+## Visualization
+
 [Tableau Story](https://public.tableau.com/views/RockbusterInsights/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
